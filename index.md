@@ -8,12 +8,8 @@
 <img src="images/revenue_dashboard_thumb.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Sales Team Dashboard](https://datastudio.google.com/reporting/2de0eae2-f873-4f8d-83dd-54e3f99eea62)
+<img src="images/sales_team_dashboard_thumb.png?raw=true"/>
 
 ---
 
