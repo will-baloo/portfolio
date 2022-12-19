@@ -5,7 +5,7 @@
 ### Google Data Studio 
 
 [Gross Revenue Dashboard](/sample_page)
-<img src="images/revenue_dashboard_thumb.jpg?raw=true"/>
+<img src="images/revenue_dashboard_thumb.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
