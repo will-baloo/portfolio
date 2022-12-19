@@ -4,7 +4,7 @@
 
 ### Google Data Studio 
 
-[Gross Revenue Dashboard](/sample_page)
+[Gross Revenue Dashboard](https://datastudio.google.com/reporting/632c929e-be84-4f9b-9625-53c8a419e842)
 <img src="images/revenue_dashboard_thumb.png?raw=true"/>
 
 ---
