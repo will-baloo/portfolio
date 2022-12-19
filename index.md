@@ -17,13 +17,9 @@
 
 ---
 
-### Category Name 2
+### Certifications
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [SQL Bootcamp - Udemy](https://www.udemy.com/certificate/UC-9acfe6de-03db-4055-b4aa-6454d6c50465/)
 
 ---
 
