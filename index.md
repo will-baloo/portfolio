@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Google Data Studio 
 
-[Project 1 Title](/sample_page)
+[Gross Revenue Dashboard](/sample_page)
 <img src="images/revenue_dashboard_thumb.jpg?raw=true"/>
 
 ---
